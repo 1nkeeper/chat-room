@@ -19,7 +19,6 @@ A modern, real-time chat application built with **React** and **Firebase**. User
 
 ## 📸 Screenshots
 
-_(You can add screenshots of your app here later)_
 ![alt text](image.png)
 ![alt text](image-1.png)
 
