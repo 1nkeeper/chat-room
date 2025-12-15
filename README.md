@@ -1,16 +1,46 @@
-# React + Vite
+# ⚛️🔥 ChatRoom - Real-time Messaging App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, real-time chat application built with **React** and **Firebase**. Users can sign in with their Google accounts and chat instantly with others in a shared room.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **⚛️ React & Vite:** Blazing fast performance and modern component structure.
+- **🔥 Firebase Auth:** Secure and easy login via Google Sign-In.
+- **📡 Firestore Real-time Database:** Messages sync instantly across all devices.
+- **🎨 Responsive UI:** Dark mode design that looks great on mobile and desktop.
+- **🛡️ Security:** Protected routes (SignIn required to view chat).
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend:** React.js, Vite
+- **Backend as a Service:** Firebase (Authentication, Cloud Firestore)
+- **Hosting:** Vercel
+- **Styling:** CSS3 (Custom Dark Theme)
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+_(You can add screenshots of your app here later)_
+
+## 📦 How to Run Locally
+
+1.  **Clone the repository**
+
+    ```bash
+    git clone [https://github.com/1nkeeper/chat-room.git](https://github.com/1nkeeper/chat-room.git)
+    cd chat-room
+    ```
+
+2.  **Install dependencies**
+
+    ```bash
+    npm install
+    ```
+
+3.  **Run the project**
+    ```bash
+    npm run dev
+    ```
+
+## 🔗 Live Demo
+
+[Click here to view the live project!]()
